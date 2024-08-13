@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://lynaifr.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
@@ -38,6 +38,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Media query
 - Mobile-first workflow
 
 ## Author
